@@ -1,0 +1,18 @@
+{
+  "name": "yarn-gulp-tut",
+  "version": "1.0.0",
+  "description": "Example to learn yarn and gulp",
+  "main": "index.js",
+  "author": "Jay Savlani",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "7.1.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.52.3"
+  },
+  "devDependencies": {
+    "gulp-uglify": "^3.0.2"
+  }
+}
